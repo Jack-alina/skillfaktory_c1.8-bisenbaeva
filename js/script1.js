@@ -20,4 +20,4 @@ jQuery.prototype.html = function(newHTML = null){
   return this;
 }
 
-// $('button:first-child').html('Кнопка 1') // изменяет html-содержимое первой кнопки
+// $('button:first-child').html('Кнопка 1') // для преверки - изменяет html-содержимое первой кнопки
